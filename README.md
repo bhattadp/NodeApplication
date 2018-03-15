@@ -42,6 +42,8 @@ npm install --save winston
 npm install --save https://github.com/winstonjs/winston-daily-rotate-file/tarball/master
 npm install jasmine-node --save-dev
 npm install request --save
+npm install --save-dev webpack
+npm install --save-dev webpack-cli
 
 For string, date, array, promise - many more packages are available like string -format, dateformatter etc.
 /**----------------------**/
